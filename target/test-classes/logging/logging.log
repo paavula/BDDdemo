@@ -1,0 +1,20 @@
+2018-08-21 15:31:39 ERROR TestSetUp:51 - java.io.FileNotFoundException: D:\AutomationProjects\BDDdemo\src\test\resources\testData\simple.xlsx (The system cannot find the path specified)
+2018-08-21 15:39:15 ERROR TestSetUp:51 - java.io.FileNotFoundException: D:\AutomationProjects\BDDdemo\src\test\resources\testData\simple.xlsx (The system cannot find the path specified)
+2018-08-21 15:43:21 ERROR TestSetUp:51 - java.io.FileNotFoundException: D:\AutomationProjects\BDDdemo\src\test\resources\testData\simple.xlsx (The system cannot find the path specified)
+2018-08-21 15:46:47 ERROR TestSetUp:51 - java.io.FileNotFoundException: D:\AutomationProjects\BDDdemo\src\test\resources\testData\simple.xlsx (The system cannot find the path specified)
+2018-08-21 16:18:47 ERROR TestSetUp:51 - java.io.FileNotFoundException: D:\AutomationProjects\BDDdemo\src\test\resources\testData\simple.xlsx (The system cannot find the path specified)
+2018-08-21 16:28:35 ERROR TestSetUp:51 - java.io.FileNotFoundException: D:\AutomationProjects\BDDdemo\src\test\resources\testData\simple.xlsx (The system cannot find the path specified)
+2018-08-21 17:45:05 ERROR TestSetUp:51 - java.io.FileNotFoundException: D:\AutomationProjects\BDDdemo\src\test\resources\testData\simple.xlsx (The system cannot find the path specified)
+2018-08-21 17:55:17 ERROR TestSetUp:51 - java.io.FileNotFoundException: D:\AutomationProjects\BDDdemo\src\test\resources\testData\simple.xlsx (The system cannot find the path specified)
+2018-08-21 18:11:22 ERROR TestSetUp:51 - java.io.FileNotFoundException: D:\AutomationProjects\BDDdemo\src\test\resources\testData\simple.xlsx (The system cannot find the path specified)
+2018-08-28 21:29:57 INFO  TestSetUp:133 - Checking browser setup 
+2018-08-28 21:29:58 INFO  TestSetUp:133 - Checking browser setup 
+2018-08-28 21:38:05 INFO  TestSetUp:134 - Checking browser setup 
+2018-08-28 21:38:05 INFO  TestSetUp:134 - Checking browser setup 
+2018-08-28 21:40:46 INFO  TestSetUp:134 - Checking browser setup 
+2018-08-28 21:40:47 INFO  TestSetUp:134 - Checking browser setup 
+2018-08-28 21:44:39 INFO  TestSetUp:134 - Checking browser setup 
+2018-08-28 21:44:40 INFO  TestSetUp:134 - Checking browser setup 
+2018-08-28 21:47:26 INFO  TestSetUp:134 - Checking browser setup 
+2018-08-28 21:53:01 INFO  TestSetUp:134 - Checking browser setup 
+2018-08-28 21:53:02 INFO  TestSetUp:134 - Checking browser setup 

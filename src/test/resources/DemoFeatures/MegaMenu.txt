@@ -1,0 +1,25 @@
+Feature: Acceptance testing to validate Availability of Mega Menus in Capella Home Page 
+	In order to validate that the Mega Menus in Capella Home Page are available we will do acceptance testing
+
+Scenario: Validate Availability of Mega Menus in Capella Home Page 
+
+	Given I am on the Home page "https://www.capella.edu/" of Capella Home Page website
+	When I move to Degrees & Programs Menu
+	Then I should see the items under Degrees & Programs Menu
+	And the Menu Text should be "DEGREES + PROGRAMS" on Degrees & Programs Menu 
+
+
+	Given I am on the Home page "https://www.capella.edu/" of Capella Home Page website
+	When I move to Capella Experience Menu
+	Then I should see the items under Capella Experience Menu
+	And the Menu Text should be "CAPELLA EXPERIENCE" on Capella Experience Menu
+	
+	Given I am on the Home page "https://www.capella.edu/" of Capella Home Page website
+	When I move to Financing Menu
+	Then I should see the items under Financing Menu
+	And the Menu Text should be "FINANCING" on Capella Financing Menu
+	
+	Given I am on the Home page "https://www.capella.edu/" of Capella Home Page website
+	When I move to Apply Menu
+	Then I should see the items under Apply Menu
+	And the Menu Text should be "APPLY" on Capella Apply Menu
